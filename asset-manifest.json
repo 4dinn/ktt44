@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/4dinn/ktt44.git/static/css/main.43ad16d6.css",
-    "main.js": "/4dinn/ktt44.git/static/js/main.079e8eb6.js",
+    "main.js": "/4dinn/ktt44.git/static/js/main.b110fe14.js",
     "index.html": "/4dinn/ktt44.git/index.html",
     "main.43ad16d6.css.map": "/4dinn/ktt44.git/static/css/main.43ad16d6.css.map",
-    "main.079e8eb6.js.map": "/4dinn/ktt44.git/static/js/main.079e8eb6.js.map"
+    "main.b110fe14.js.map": "/4dinn/ktt44.git/static/js/main.b110fe14.js.map"
   },
   "entrypoints": [
     "static/css/main.43ad16d6.css",
-    "static/js/main.079e8eb6.js"
+    "static/js/main.b110fe14.js"
   ]
 }
