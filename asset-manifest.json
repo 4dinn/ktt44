@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mega-kt4/static/css/main.43ad16d6.css",
+    "main.js": "/mega-kt4/static/js/main.079e8eb6.js",
+    "index.html": "/mega-kt4/index.html",
+    "main.43ad16d6.css.map": "/mega-kt4/static/css/main.43ad16d6.css.map",
+    "main.079e8eb6.js.map": "/mega-kt4/static/js/main.079e8eb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43ad16d6.css",
+    "static/js/main.079e8eb6.js"
+  ]
+}
